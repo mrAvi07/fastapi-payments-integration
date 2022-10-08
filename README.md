@@ -1,2 +1,2 @@
-# fastapi-payments-integrations
-FastAPI Payments Integrations 
+# Fastapi payments integrations
+  FastAPI Payments Integrations 
